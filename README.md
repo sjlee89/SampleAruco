@@ -7,4 +7,4 @@ Sample program for Aruco marker detection combined with OpenCV Viz module
 + Eigen 3.3.9
 
 ## Not Complete
-+ To be: Drawing 3D object on the markers
++ To be: Drawing 3D object on the marker
